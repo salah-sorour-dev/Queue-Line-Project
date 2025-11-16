@@ -1,0 +1,26 @@
+﻿  Queue Line Project.cpp
+C:\Users\salah\Desktop\Data Structures\Algorithms & Problem Solving Level 5\Queue Line Project\Queue Line Project\clsString.h(42,25): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Queue%20Line%20Project.cpp')
+  
+C:\Users\salah\Desktop\Data Structures\Algorithms & Problem Solving Level 5\Queue Line Project\Queue Line Project\clsString.h(47,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Queue%20Line%20Project.cpp')
+  
+C:\Users\salah\Desktop\Data Structures\Algorithms & Problem Solving Level 5\Queue Line Project\Queue Line Project\clsString.h(59,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Queue%20Line%20Project.cpp')
+  
+C:\Users\salah\Desktop\Data Structures\Algorithms & Problem Solving Level 5\Queue Line Project\Queue Line Project\clsString.h(196,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Queue%20Line%20Project.cpp')
+  
+C:\Users\salah\Desktop\Data Structures\Algorithms & Problem Solving Level 5\Queue Line Project\Queue Line Project\clsString.h(327,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Queue%20Line%20Project.cpp')
+  
+C:\Users\salah\Desktop\Data Structures\Algorithms & Problem Solving Level 5\Queue Line Project\Queue Line Project\clsString.h(375,22): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Queue%20Line%20Project.cpp')
+  
+C:\Users\salah\Desktop\Data Structures\Algorithms & Problem Solving Level 5\Queue Line Project\Queue Line Project\clsQueueLine.h(103,24): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'Queue%20Line%20Project.cpp')
+  
+C:\Users\salah\Desktop\Data Structures\Algorithms & Problem Solving Level 5\Queue Line Project\Queue Line Project\clsQueueLine.h(126,24): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Queue%20Line%20Project.cpp')
+  
+  Queue Line Project.vcxproj -> C:\Users\salah\Desktop\Data Structures\Algorithms & Problem Solving Level 5\Queue Line Project\x64\Debug\Queue Line Project.exe
